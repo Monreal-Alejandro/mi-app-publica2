@@ -31,7 +31,7 @@
           },
           "configurations": {
             "production": {
-              "baseHref": "/mi-app-publica",
+              "baseHref": "/mi-app-publica2",
               "budgets": [
                 {
                   "type": "initial",
@@ -91,7 +91,7 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "/mi-app-publica/"
+            "baseHref": "/mi-app-publica2/"
           }
         }
       }
