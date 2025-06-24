@@ -87,6 +87,12 @@
               "src/styles.css"
             ]
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "baseHref": "/mi-app-publica/"
+          }
         }
       }
     }
